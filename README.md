@@ -1,7 +1,4 @@
 # Steam White Elephant
-## See it in action
-https://swe.ethanmeier.ca
-
 ## Process
 This repo contains references to the subrepos for the frontend and backend, you can access them by clicking on the files above.
 The frontend is built with next.js and react, and uses next-ws to build the realtime multiplayer functionality.
